@@ -24,3 +24,5 @@ Buenos Aires
 Barcelona
 Roma
 Berlin
+Santiago
+Montevideo
