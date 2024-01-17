@@ -6,6 +6,6 @@ I think I'm getting better in doing this. Let's see what happens.
 ## Songs
 Champagne supernova
 Wonderwall
-Don't lokk back in anger
+Don't look back in anger
 Supersonic
 Live forever
